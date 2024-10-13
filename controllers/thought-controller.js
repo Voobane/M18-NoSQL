@@ -1,4 +1,3 @@
-// controllers/thought-controller.js
 const { Thought, User } = require('../models');
 
 module.exports = {
