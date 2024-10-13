@@ -1,5 +1,5 @@
-const { User, Thought } = require('../models');
-
+// controllers/thought-controller.js
+const { Thought, User } = require('../models');
 
 module.exports = {
   // Get all thoughts
