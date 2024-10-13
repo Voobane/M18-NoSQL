@@ -1,0 +1,3 @@
+module.exports = {
+  formatDate: (timestamp) => new Date(timestamp).toLocaleString(),
+};
