@@ -2,7 +2,7 @@
 
 Github Repo link: https://github.com/Voobane/M18-NoSQL
 
-Video Walkthrough link:
+Video Walkthrough link: https://drive.google.com/file/d/1cS3oWlaQo8oYHJ__a2ACXNwuhBw71DaC/view?usp=sharing
 
 ## Your Task
 
